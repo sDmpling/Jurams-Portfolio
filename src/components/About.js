@@ -33,7 +33,7 @@ const About = () => {
               as I continue to grow both personally and professionally.
             </p>
 
-            <div className="stats">
+            {/* <div className="stats">
               <div className="stat">
                 <h4>50+</h4>
                 <p>Projects Completed</p>
@@ -46,7 +46,7 @@ const About = () => {
                 <h4>20+</h4>
                 <p>Happy Clients</p>
               </div>
-            </div>
+            </div> */}
           </div>
 
         </div>
